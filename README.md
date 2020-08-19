@@ -1,4 +1,4 @@
-${moduleName}
+Data transfer App
 ==========================
 
 Description
